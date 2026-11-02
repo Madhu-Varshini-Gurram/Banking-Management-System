@@ -34,7 +34,7 @@ Banking-Management-System/
 │   └── bank/
 │       ├── enums/
 │       ├── exceptions/
-│       ├── interface/
+│       ├── interfaces/
 │       ├── model/
 │       ├── service/
 │       └── Main.java
@@ -49,7 +49,7 @@ Banking-Management-System/
 - Object-Oriented Programming
 - Encapsulation
 - Abstraction
-- Inheritance and Polymorphism (where implemented)
+- Inheritance and Polymorphism 
 - Collections Framework
 - Exception Handling
 - Modular Programming
