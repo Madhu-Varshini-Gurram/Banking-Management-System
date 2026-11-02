@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+out/
+target/
+
+# Error logs
+hs_err_pid*.log
